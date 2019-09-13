@@ -1,0 +1,5 @@
+io/pivotal/sample/repositories/CityRepository.class
+io/pivotal/sample/domain/City.class
+io/pivotal/sample/controller/GreetingController.class
+io/pivotal/sample/FlappingHealthIndicator.class
+io/pivotal/sample/SampleApplication.class
